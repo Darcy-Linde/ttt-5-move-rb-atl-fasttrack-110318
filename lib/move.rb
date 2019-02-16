@@ -14,3 +14,4 @@ end
 
 #move
 def move(" ", " ", character = "X")
+end
